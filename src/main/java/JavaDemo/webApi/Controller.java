@@ -1,4 +1,4 @@
-package JavaDemo.demo.webApi;
+package JavaDemo.webApi;
 
 import java.util.List;
 
